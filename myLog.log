@@ -1,0 +1,662 @@
+Nov 03, 2015 12:54:05 PM model.DotsPairGenerator fillBlockSet
+INFO: [0]
+Nov 03, 2015 12:54:05 PM model.DotsPairGenerator fillBlockSet
+INFO: [0, 4]
+Nov 03, 2015 12:54:05 PM model.DotsPairGenerator fillBlockSet
+INFO: [0, 4, 1]
+Nov 03, 2015 12:54:05 PM model.DotsPairGenerator fillBlockSet
+INFO: [0, 4, 1, 3]
+Nov 03, 2015 12:54:05 PM model.DotsPairGenerator fillBlockSet
+INFO: [0, 4, 1, 3, 2]
+Nov 03, 2015 12:54:10 PM controller.DotsGameController onClickStartButton
+INFO: Subject ID: 78
+Nov 03, 2015 12:54:10 PM controller.DotsGameController onClickStartButton
+INFO: Subject Gender: MALE
+Nov 03, 2015 12:54:10 PM controller.DotsGameController onClickStartButton
+INFO: Subject Age: 9
+Nov 03, 2015 12:54:13 PM model.DotsPairGenerator fillRatiosBucket
+INFO: [[], [], [], [], [{9,16}, {2,3}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}, {16,9}]]
+Nov 03, 2015 12:54:13 PM model.DotsPairGenerator getNewPair
+INFO: 22 33
+Nov 03, 2015 12:54:13 PM model.DotsPairGenerator getNewPair
+INFO: 0.4
+Nov 03, 2015 12:54:13 PM model.DotsPairGenerator getNewPair
+INFO: 0.6
+Nov 03, 2015 12:54:14 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:14 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.222454143
+Nov 03, 2015 12:54:15 PM model.DotsPairGenerator fillRatiosBucket
+INFO: [[], [], [], [{9,16}, {2,3}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}, {16,9}], [{9,16}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}, {16,9}]]
+Nov 03, 2015 12:54:15 PM model.DotsPairGenerator getNewPair
+INFO: 16 9
+Nov 03, 2015 12:54:15 PM model.DotsPairGenerator getNewPair
+INFO: 0.64
+Nov 03, 2015 12:54:15 PM model.DotsPairGenerator getNewPair
+INFO: 0.36
+Nov 03, 2015 12:54:15 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:16 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.011402017
+Nov 03, 2015 12:54:16 PM model.DotsPairGenerator fillRatiosBucket
+INFO: [[], [], [{7,6}, {3,2}, {2,1}, {18,7}, {18,5}, {21,4}, {9,1}, {24,1}], [{9,16}, {2,3}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}], [{9,16}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}, {16,9}]]
+Nov 03, 2015 12:54:16 PM model.DotsPairGenerator getNewPair
+INFO: 24 12
+Nov 03, 2015 12:54:16 PM model.DotsPairGenerator getNewPair
+INFO: 0.6666666666666666
+Nov 03, 2015 12:54:16 PM model.DotsPairGenerator getNewPair
+INFO: 0.3333333333333333
+Nov 03, 2015 12:54:16 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:17 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.162132459
+Nov 03, 2015 12:54:17 PM model.DotsPairGenerator fillRatiosBucket
+INFO: [[{9,16}, {2,3}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}, {16,9}], [], [{7,6}, {3,2}, {18,7}, {18,5}, {21,4}, {9,1}, {24,1}], [{9,16}, {2,3}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}], [{9,16}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}, {16,9}]]
+Nov 03, 2015 12:54:17 PM model.DotsPairGenerator getNewPair
+INFO: 12 13
+Nov 03, 2015 12:54:17 PM model.DotsPairGenerator getNewPair
+INFO: 0.48
+Nov 03, 2015 12:54:17 PM model.DotsPairGenerator getNewPair
+INFO: 0.52
+Nov 03, 2015 12:54:18 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:18 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.080142967
+Nov 03, 2015 12:54:18 PM model.DotsPairGenerator fillRatiosBucket
+INFO: [[{9,16}, {2,3}, {11,14}, {13,12}, {14,11}, {3,2}, {16,9}], [{11,14}, {12,13}, {13,12}, {4,3}, {5,3}, {13,7}, {18,7}, {19,6}], [{7,6}, {3,2}, {18,7}, {18,5}, {21,4}, {9,1}, {24,1}], [{9,16}, {2,3}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}], [{9,16}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}, {16,9}]]
+Nov 03, 2015 12:54:18 PM model.DotsPairGenerator getNewPair
+INFO: 26 14
+Nov 03, 2015 12:54:18 PM model.DotsPairGenerator getNewPair
+INFO: 0.65
+Nov 03, 2015 12:54:18 PM model.DotsPairGenerator getNewPair
+INFO: 0.35
+Nov 03, 2015 12:54:19 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:22 PM model.DotsPairGenerator fillBlockSet
+INFO: [1]
+Nov 03, 2015 12:54:22 PM model.DotsPairGenerator fillBlockSet
+INFO: [1, 2]
+Nov 03, 2015 12:54:22 PM model.DotsPairGenerator fillBlockSet
+INFO: [1, 2, 3]
+Nov 03, 2015 12:54:22 PM model.DotsPairGenerator fillBlockSet
+INFO: [1, 2, 3, 4]
+Nov 03, 2015 12:54:22 PM model.DotsPairGenerator fillBlockSet
+INFO: [1, 2, 3, 4, 0]
+Nov 03, 2015 12:54:22 PM model.DotsPairGenerator getNewPair
+INFO: 13 12
+Nov 03, 2015 12:54:22 PM model.DotsPairGenerator getNewPair
+INFO: 0.52
+Nov 03, 2015 12:54:22 PM model.DotsPairGenerator getNewPair
+INFO: 0.48
+Nov 03, 2015 12:54:23 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:25 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 2.379983545
+Nov 03, 2015 12:54:25 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:25 PM model.DotsPairGenerator getNewPair
+INFO: 13 12
+Nov 03, 2015 12:54:25 PM model.DotsPairGenerator getNewPair
+INFO: 0.52
+Nov 03, 2015 12:54:25 PM model.DotsPairGenerator getNewPair
+INFO: 0.48
+Nov 03, 2015 12:54:26 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:26 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.419133048
+Nov 03, 2015 12:54:26 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:26 PM model.DotsPairGenerator getNewPair
+INFO: 18 2
+Nov 03, 2015 12:54:26 PM model.DotsPairGenerator getNewPair
+INFO: 0.9
+Nov 03, 2015 12:54:26 PM model.DotsPairGenerator getNewPair
+INFO: 0.1
+Nov 03, 2015 12:54:27 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:28 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.317951751
+Nov 03, 2015 12:54:28 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:28 PM model.DotsPairGenerator getNewPair
+INFO: 13 12
+Nov 03, 2015 12:54:28 PM model.DotsPairGenerator getNewPair
+INFO: 0.52
+Nov 03, 2015 12:54:28 PM model.DotsPairGenerator getNewPair
+INFO: 0.48
+Nov 03, 2015 12:54:29 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:29 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.159157834
+Nov 03, 2015 12:54:29 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:29 PM model.DotsPairGenerator getNewPair
+INFO: 9 16
+Nov 03, 2015 12:54:29 PM model.DotsPairGenerator getNewPair
+INFO: 0.36
+Nov 03, 2015 12:54:29 PM model.DotsPairGenerator getNewPair
+INFO: 0.64
+Nov 03, 2015 12:54:30 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:30 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.135849619
+Nov 03, 2015 12:54:30 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:30 PM model.DotsPairGenerator fillBlockSet
+INFO: [2]
+Nov 03, 2015 12:54:30 PM model.DotsPairGenerator fillBlockSet
+INFO: [2, 0]
+Nov 03, 2015 12:54:30 PM model.DotsPairGenerator fillBlockSet
+INFO: [2, 0, 3]
+Nov 03, 2015 12:54:30 PM model.DotsPairGenerator fillBlockSet
+INFO: [2, 0, 3, 1]
+Nov 03, 2015 12:54:30 PM model.DotsPairGenerator fillBlockSet
+INFO: [2, 0, 3, 1, 4]
+Nov 03, 2015 12:54:30 PM model.DotsPairGenerator getNewPair
+INFO: 14 12
+Nov 03, 2015 12:54:30 PM model.DotsPairGenerator getNewPair
+INFO: 0.5384615384615384
+Nov 03, 2015 12:54:30 PM model.DotsPairGenerator getNewPair
+INFO: 0.46153846153846156
+Nov 03, 2015 12:54:31 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:32 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.384873544
+Nov 03, 2015 12:54:32 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:32 PM model.DotsPairGenerator getNewPair
+INFO: 30 20
+Nov 03, 2015 12:54:32 PM model.DotsPairGenerator getNewPair
+INFO: 0.6
+Nov 03, 2015 12:54:32 PM model.DotsPairGenerator getNewPair
+INFO: 0.4
+Nov 03, 2015 12:54:33 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:33 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.196044296
+Nov 03, 2015 12:54:33 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:33 PM model.DotsPairGenerator getNewPair
+INFO: 14 11
+Nov 03, 2015 12:54:33 PM model.DotsPairGenerator getNewPair
+INFO: 0.56
+Nov 03, 2015 12:54:33 PM model.DotsPairGenerator getNewPair
+INFO: 0.44
+Nov 03, 2015 12:54:34 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:34 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.242102661
+Nov 03, 2015 12:54:34 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:34 PM model.DotsPairGenerator getNewPair
+INFO: 30 18
+Nov 03, 2015 12:54:34 PM model.DotsPairGenerator getNewPair
+INFO: 0.625
+Nov 03, 2015 12:54:34 PM model.DotsPairGenerator getNewPair
+INFO: 0.375
+Nov 03, 2015 12:54:35 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:36 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.191726472
+Nov 03, 2015 12:54:36 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:36 PM model.DotsPairGenerator getNewPair
+INFO: 16 9
+Nov 03, 2015 12:54:36 PM model.DotsPairGenerator getNewPair
+INFO: 0.64
+Nov 03, 2015 12:54:36 PM model.DotsPairGenerator getNewPair
+INFO: 0.36
+Nov 03, 2015 12:54:36 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:37 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.251173643
+Nov 03, 2015 12:54:37 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:37 PM model.DotsPairGenerator fillBlockSet
+INFO: [4]
+Nov 03, 2015 12:54:37 PM model.DotsPairGenerator fillBlockSet
+INFO: [4, 2]
+Nov 03, 2015 12:54:37 PM model.DotsPairGenerator fillBlockSet
+INFO: [4, 2, 1]
+Nov 03, 2015 12:54:37 PM model.DotsPairGenerator fillBlockSet
+INFO: [4, 2, 1, 0]
+Nov 03, 2015 12:54:37 PM model.DotsPairGenerator fillBlockSet
+INFO: [4, 2, 1, 0, 3]
+Nov 03, 2015 12:54:37 PM model.DotsPairGenerator getNewPair
+INFO: 18 5
+Nov 03, 2015 12:54:37 PM model.DotsPairGenerator getNewPair
+INFO: 0.782608695652174
+Nov 03, 2015 12:54:37 PM model.DotsPairGenerator getNewPair
+INFO: 0.21739130434782608
+Nov 03, 2015 12:54:38 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:38 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.310573347
+Nov 03, 2015 12:54:38 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:38 PM model.DotsPairGenerator getNewPair
+INFO: 11 14
+Nov 03, 2015 12:54:38 PM model.DotsPairGenerator getNewPair
+INFO: 0.44
+Nov 03, 2015 12:54:38 PM model.DotsPairGenerator getNewPair
+INFO: 0.56
+Nov 03, 2015 12:54:39 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:39 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.15544554
+Nov 03, 2015 12:54:39 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:40 PM model.DotsPairGenerator getNewPair
+INFO: 24 16
+Nov 03, 2015 12:54:40 PM model.DotsPairGenerator getNewPair
+INFO: 0.6
+Nov 03, 2015 12:54:40 PM model.DotsPairGenerator getNewPair
+INFO: 0.4
+Nov 03, 2015 12:54:40 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:41 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.163172893
+Nov 03, 2015 12:54:41 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:41 PM model.DotsPairGenerator getNewPair
+INFO: 14 11
+Nov 03, 2015 12:54:41 PM model.DotsPairGenerator getNewPair
+INFO: 0.56
+Nov 03, 2015 12:54:41 PM model.DotsPairGenerator getNewPair
+INFO: 0.44
+Nov 03, 2015 12:54:42 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:42 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.19877688
+Nov 03, 2015 12:54:42 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:42 PM model.DotsPairGenerator getNewPair
+INFO: 16 24
+Nov 03, 2015 12:54:42 PM model.DotsPairGenerator getNewPair
+INFO: 0.4
+Nov 03, 2015 12:54:42 PM model.DotsPairGenerator getNewPair
+INFO: 0.6
+Nov 03, 2015 12:54:43 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:43 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.147583909
+Nov 03, 2015 12:54:43 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:43 PM model.DotsPairGenerator fillBlockSet
+INFO: [0]
+Nov 03, 2015 12:54:43 PM model.DotsPairGenerator fillBlockSet
+INFO: [0, 2]
+Nov 03, 2015 12:54:43 PM model.DotsPairGenerator fillBlockSet
+INFO: [0, 2, 4]
+Nov 03, 2015 12:54:43 PM model.DotsPairGenerator fillBlockSet
+INFO: [0, 2, 4, 3]
+Nov 03, 2015 12:54:43 PM model.DotsPairGenerator fillBlockSet
+INFO: [0, 2, 4, 3, 1]
+Nov 03, 2015 12:54:43 PM model.DotsPairGenerator getNewPair
+INFO: 21 14
+Nov 03, 2015 12:54:43 PM model.DotsPairGenerator getNewPair
+INFO: 0.6
+Nov 03, 2015 12:54:43 PM model.DotsPairGenerator getNewPair
+INFO: 0.4
+Nov 03, 2015 12:54:44 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:44 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.279920512
+Nov 03, 2015 12:54:44 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:45 PM model.DotsPairGenerator getNewPair
+INFO: 13 12
+Nov 03, 2015 12:54:45 PM model.DotsPairGenerator getNewPair
+INFO: 0.52
+Nov 03, 2015 12:54:45 PM model.DotsPairGenerator getNewPair
+INFO: 0.48
+Nov 03, 2015 12:54:45 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:46 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.189198296
+Nov 03, 2015 12:54:46 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:46 PM model.DotsPairGenerator getNewPair
+INFO: 9 16
+Nov 03, 2015 12:54:46 PM model.DotsPairGenerator getNewPair
+INFO: 0.36
+Nov 03, 2015 12:54:46 PM model.DotsPairGenerator getNewPair
+INFO: 0.64
+Nov 03, 2015 12:54:47 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:47 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.213999382
+Nov 03, 2015 12:54:47 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:47 PM model.DotsPairGenerator getNewPair
+INFO: 24 1
+Nov 03, 2015 12:54:47 PM model.DotsPairGenerator getNewPair
+INFO: 0.96
+Nov 03, 2015 12:54:47 PM model.DotsPairGenerator getNewPair
+INFO: 0.04
+Nov 03, 2015 12:54:48 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:48 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.257436349
+Nov 03, 2015 12:54:48 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:48 PM model.DotsPairGenerator getNewPair
+INFO: 12 13
+Nov 03, 2015 12:54:48 PM model.DotsPairGenerator getNewPair
+INFO: 0.48
+Nov 03, 2015 12:54:48 PM model.DotsPairGenerator getNewPair
+INFO: 0.52
+Nov 03, 2015 12:54:49 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:50 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.187424469
+Nov 03, 2015 12:54:50 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:50 PM model.DotsPairGenerator fillBlockSet
+INFO: [2]
+Nov 03, 2015 12:54:50 PM model.DotsPairGenerator fillBlockSet
+INFO: [2, 0]
+Nov 03, 2015 12:54:50 PM model.DotsPairGenerator fillBlockSet
+INFO: [2, 0, 1]
+Nov 03, 2015 12:54:50 PM model.DotsPairGenerator fillBlockSet
+INFO: [2, 0, 1, 4]
+Nov 03, 2015 12:54:50 PM model.DotsPairGenerator fillBlockSet
+INFO: [2, 0, 1, 4, 3]
+Nov 03, 2015 12:54:50 PM model.DotsPairGenerator getNewPair
+INFO: 18 7
+Nov 03, 2015 12:54:50 PM model.DotsPairGenerator getNewPair
+INFO: 0.72
+Nov 03, 2015 12:54:50 PM model.DotsPairGenerator getNewPair
+INFO: 0.28
+Nov 03, 2015 12:54:50 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:51 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.155468204
+Nov 03, 2015 12:54:51 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:51 PM model.DotsPairGenerator getNewPair
+INFO: 16 9
+Nov 03, 2015 12:54:51 PM model.DotsPairGenerator getNewPair
+INFO: 0.64
+Nov 03, 2015 12:54:51 PM model.DotsPairGenerator getNewPair
+INFO: 0.36
+Nov 03, 2015 12:54:52 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:52 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.17766799
+Nov 03, 2015 12:54:52 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:52 PM model.DotsPairGenerator getNewPair
+INFO: 20 30
+Nov 03, 2015 12:54:52 PM model.DotsPairGenerator getNewPair
+INFO: 0.4
+Nov 03, 2015 12:54:52 PM model.DotsPairGenerator getNewPair
+INFO: 0.6
+Nov 03, 2015 12:54:53 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:53 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.149311979
+Nov 03, 2015 12:54:53 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:53 PM model.DotsPairGenerator getNewPair
+INFO: 11 14
+Nov 03, 2015 12:54:53 PM model.DotsPairGenerator getNewPair
+INFO: 0.44
+Nov 03, 2015 12:54:53 PM model.DotsPairGenerator getNewPair
+INFO: 0.56
+Nov 03, 2015 12:54:54 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:54 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.012663539
+Nov 03, 2015 12:54:54 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:54 PM model.DotsPairGenerator getNewPair
+INFO: 24 16
+Nov 03, 2015 12:54:54 PM model.DotsPairGenerator getNewPair
+INFO: 0.6
+Nov 03, 2015 12:54:54 PM model.DotsPairGenerator getNewPair
+INFO: 0.4
+Nov 03, 2015 12:54:55 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:55 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.053759206
+Nov 03, 2015 12:54:55 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:55 PM model.DotsPairGenerator fillBlockSet
+INFO: [3]
+Nov 03, 2015 12:54:55 PM model.DotsPairGenerator fillBlockSet
+INFO: [3, 4]
+Nov 03, 2015 12:54:55 PM model.DotsPairGenerator fillBlockSet
+INFO: [3, 4, 0]
+Nov 03, 2015 12:54:55 PM model.DotsPairGenerator fillBlockSet
+INFO: [3, 4, 0, 2]
+Nov 03, 2015 12:54:55 PM model.DotsPairGenerator fillBlockSet
+INFO: [3, 4, 0, 2, 1]
+Nov 03, 2015 12:54:55 PM model.DotsPairGenerator getNewPair
+INFO: 12 13
+Nov 03, 2015 12:54:55 PM model.DotsPairGenerator getNewPair
+INFO: 0.48
+Nov 03, 2015 12:54:55 PM model.DotsPairGenerator getNewPair
+INFO: 0.52
+Nov 03, 2015 12:54:56 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:57 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.184909123
+Nov 03, 2015 12:54:57 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:57 PM model.DotsPairGenerator getNewPair
+INFO: 21 4
+Nov 03, 2015 12:54:57 PM model.DotsPairGenerator getNewPair
+INFO: 0.84
+Nov 03, 2015 12:54:57 PM model.DotsPairGenerator getNewPair
+INFO: 0.16
+Nov 03, 2015 12:54:57 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:58 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.339802159
+Nov 03, 2015 12:54:58 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:58 PM model.DotsPairGenerator getNewPair
+INFO: 19 6
+Nov 03, 2015 12:54:58 PM model.DotsPairGenerator getNewPair
+INFO: 0.76
+Nov 03, 2015 12:54:58 PM model.DotsPairGenerator getNewPair
+INFO: 0.24
+Nov 03, 2015 12:54:59 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:54:59 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.280966933
+Nov 03, 2015 12:54:59 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:54:59 PM model.DotsPairGenerator getNewPair
+INFO: 12 13
+Nov 03, 2015 12:54:59 PM model.DotsPairGenerator getNewPair
+INFO: 0.48
+Nov 03, 2015 12:54:59 PM model.DotsPairGenerator getNewPair
+INFO: 0.52
+Nov 03, 2015 12:55:00 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:55:00 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 0.974067393
+Nov 03, 2015 12:55:00 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:55:01 PM model.DotsPairGenerator getNewPair
+INFO: 14 11
+Nov 03, 2015 12:55:01 PM model.DotsPairGenerator getNewPair
+INFO: 0.56
+Nov 03, 2015 12:55:01 PM model.DotsPairGenerator getNewPair
+INFO: 0.44
+Nov 03, 2015 12:55:01 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:55:02 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.044896483
+Nov 03, 2015 12:55:02 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:55:02 PM model.DotsPairGenerator fillBlockSet
+INFO: [2]
+Nov 03, 2015 12:55:02 PM model.DotsPairGenerator fillBlockSet
+INFO: [2, 4]
+Nov 03, 2015 12:55:02 PM model.DotsPairGenerator fillBlockSet
+INFO: [2, 4, 1]
+Nov 03, 2015 12:55:02 PM model.DotsPairGenerator fillBlockSet
+INFO: [2, 4, 1, 0]
+Nov 03, 2015 12:55:02 PM model.DotsPairGenerator fillBlockSet
+INFO: [2, 4, 1, 0, 3]
+Nov 03, 2015 12:55:02 PM model.DotsPairGenerator getNewPair
+INFO: 12 9
+Nov 03, 2015 12:55:02 PM model.DotsPairGenerator getNewPair
+INFO: 0.5714285714285714
+Nov 03, 2015 12:55:02 PM model.DotsPairGenerator getNewPair
+INFO: 0.42857142857142855
+Nov 03, 2015 12:55:02 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:55:03 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.277245658
+Nov 03, 2015 12:55:03 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:55:03 PM model.DotsPairGenerator getNewPair
+INFO: 9 16
+Nov 03, 2015 12:55:03 PM model.DotsPairGenerator getNewPair
+INFO: 0.36
+Nov 03, 2015 12:55:03 PM model.DotsPairGenerator getNewPair
+INFO: 0.64
+Nov 03, 2015 12:55:04 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:55:04 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 0.99281061
+Nov 03, 2015 12:55:04 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:55:04 PM model.DotsPairGenerator getNewPair
+INFO: 11 14
+Nov 03, 2015 12:55:04 PM model.DotsPairGenerator getNewPair
+INFO: 0.44
+Nov 03, 2015 12:55:04 PM model.DotsPairGenerator getNewPair
+INFO: 0.56
+Nov 03, 2015 12:55:05 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:55:05 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.044674967
+Nov 03, 2015 12:55:05 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:55:05 PM model.DotsPairGenerator getNewPair
+INFO: 18 7
+Nov 03, 2015 12:55:05 PM model.DotsPairGenerator getNewPair
+INFO: 0.72
+Nov 03, 2015 12:55:05 PM model.DotsPairGenerator getNewPair
+INFO: 0.28
+Nov 03, 2015 12:55:06 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:55:06 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 0.979667266
+Nov 03, 2015 12:55:06 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:55:06 PM model.DotsPairGenerator getNewPair
+INFO: 11 14
+Nov 03, 2015 12:55:06 PM model.DotsPairGenerator getNewPair
+INFO: 0.44
+Nov 03, 2015 12:55:06 PM model.DotsPairGenerator getNewPair
+INFO: 0.56
+Nov 03, 2015 12:55:07 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:55:07 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.198979151
+Nov 03, 2015 12:55:07 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:55:07 PM model.DotsPairGenerator fillBlockSet
+INFO: [2]
+Nov 03, 2015 12:55:07 PM model.DotsPairGenerator fillBlockSet
+INFO: [2, 0]
+Nov 03, 2015 12:55:07 PM model.DotsPairGenerator fillBlockSet
+INFO: [2, 0, 1]
+Nov 03, 2015 12:55:07 PM model.DotsPairGenerator fillBlockSet
+INFO: [2, 0, 1, 4]
+Nov 03, 2015 12:55:07 PM model.DotsPairGenerator fillBlockSet
+INFO: [2, 0, 1, 4, 3]
+Nov 03, 2015 12:55:07 PM model.DotsPairGenerator fillRatiosBucket
+INFO: [[], [], [], [], [{9,16}, {2,3}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}, {16,9}]]
+Nov 03, 2015 12:55:07 PM model.DotsPairGenerator getNewPair
+INFO: 20 30
+Nov 03, 2015 12:55:07 PM model.DotsPairGenerator getNewPair
+INFO: 0.4
+Nov 03, 2015 12:55:07 PM model.DotsPairGenerator getNewPair
+INFO: 0.6
+Nov 03, 2015 12:55:08 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:55:09 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.317166187
+Nov 03, 2015 12:55:09 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:55:09 PM model.DotsPairGenerator fillRatiosBucket
+INFO: [[], [], [{7,6}, {3,2}, {2,1}, {18,7}, {18,5}, {21,4}, {9,1}, {24,1}], [], [{9,16}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}, {16,9}]]
+Nov 03, 2015 12:55:09 PM model.DotsPairGenerator getNewPair
+INFO: 18 5
+Nov 03, 2015 12:55:09 PM model.DotsPairGenerator getNewPair
+INFO: 0.782608695652174
+Nov 03, 2015 12:55:09 PM model.DotsPairGenerator getNewPair
+INFO: 0.21739130434782608
+Nov 03, 2015 12:55:09 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:55:10 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.059802963
+Nov 03, 2015 12:55:10 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:55:10 PM model.DotsPairGenerator fillRatiosBucket
+INFO: [[{9,16}, {2,3}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}, {16,9}], [], [{7,6}, {3,2}, {2,1}, {18,7}, {21,4}, {9,1}, {24,1}], [], [{9,16}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}, {16,9}]]
+Nov 03, 2015 12:55:10 PM model.DotsPairGenerator getNewPair
+INFO: 13 12
+Nov 03, 2015 12:55:10 PM model.DotsPairGenerator getNewPair
+INFO: 0.52
+Nov 03, 2015 12:55:10 PM model.DotsPairGenerator getNewPair
+INFO: 0.48
+Nov 03, 2015 12:55:11 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:55:11 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 0.997801531
+Nov 03, 2015 12:55:11 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:55:11 PM model.DotsPairGenerator fillRatiosBucket
+INFO: [[{9,16}, {2,3}, {11,14}, {12,13}, {14,11}, {3,2}, {16,9}], [{11,14}, {12,13}, {13,12}, {4,3}, {5,3}, {13,7}, {18,7}, {19,6}], [{7,6}, {3,2}, {2,1}, {18,7}, {21,4}, {9,1}, {24,1}], [], [{9,16}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}, {16,9}]]
+Nov 03, 2015 12:55:11 PM model.DotsPairGenerator getNewPair
+INFO: 13 12
+Nov 03, 2015 12:55:11 PM model.DotsPairGenerator getNewPair
+INFO: 0.52
+Nov 03, 2015 12:55:11 PM model.DotsPairGenerator getNewPair
+INFO: 0.48
+Nov 03, 2015 12:55:12 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:55:12 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 1.27161243
+Nov 03, 2015 12:55:12 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:55:12 PM model.DotsPairGenerator fillRatiosBucket
+INFO: [[{9,16}, {2,3}, {11,14}, {12,13}, {14,11}, {3,2}, {16,9}], [{11,14}, {12,13}, {4,3}, {5,3}, {13,7}, {18,7}, {19,6}], [{7,6}, {3,2}, {2,1}, {18,7}, {21,4}, {9,1}, {24,1}], [{9,16}, {2,3}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}, {16,9}], [{9,16}, {11,14}, {12,13}, {13,12}, {14,11}, {3,2}, {16,9}]]
+Nov 03, 2015 12:55:12 PM model.DotsPairGenerator getNewPair
+INFO: 10 15
+Nov 03, 2015 12:55:12 PM model.DotsPairGenerator getNewPair
+INFO: 0.4
+Nov 03, 2015 12:55:12 PM model.DotsPairGenerator getNewPair
+INFO: 0.6
+Nov 03, 2015 12:55:13 PM controller.DotsGameController$9 call
+INFO: MASK
+Nov 03, 2015 12:55:13 PM controller.DotsGameController recordResponseTime
+INFO: Response time: 0.96394828
+Nov 03, 2015 12:55:13 PM controller.DataWriter writeToCSV
+INFO: C:\Users\Tony\workspace\MorePercentages\results_dots\78\results_78.csv
+Nov 03, 2015 12:55:13 PM model.DotsPairGenerator fillBlockSet
+INFO: [4]
+Nov 03, 2015 12:55:13 PM model.DotsPairGenerator fillBlockSet
+INFO: [4, 3]
+Nov 03, 2015 12:55:13 PM model.DotsPairGenerator fillBlockSet
+INFO: [4, 3, 2]
+Nov 03, 2015 12:55:13 PM model.DotsPairGenerator fillBlockSet
+INFO: [4, 3, 2, 1]
+Nov 03, 2015 12:55:13 PM model.DotsPairGenerator fillBlockSet
+INFO: [4, 3, 2, 1, 0]
+Nov 03, 2015 12:55:13 PM model.DotsPairGenerator getNewPair
+INFO: 12 13
+Nov 03, 2015 12:55:13 PM model.DotsPairGenerator getNewPair
+INFO: 0.48
+Nov 03, 2015 12:55:13 PM model.DotsPairGenerator getNewPair
+INFO: 0.52
+Nov 03, 2015 12:55:14 PM controller.DotsGameController$9 call
+INFO: MASK
